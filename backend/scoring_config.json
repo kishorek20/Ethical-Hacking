@@ -1,0 +1,26 @@
+{
+  "personal_info": {
+    "id_details_public": 20,
+    "home_address_public": 15,
+    "phone_public": 10,
+    "email_public": 5,
+    "name_public": 2
+  },
+  "exposure": {
+    "per_public_account": 3,
+    "per_account_base": 1,
+    "weak_password": 10,
+    "reused_password": 12,
+    "no_password_manager": 5
+  },
+  "security": {
+    "missing_2fa_per_account": 4,
+    "privacy_not_reviewed": 6,
+    "no_login_alerts": 4
+  },
+  "breach": {
+    "password_pwned": 15,
+    "email_breached": 10
+  },
+  "max_raw_score": 150
+}
